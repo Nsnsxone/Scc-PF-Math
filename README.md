@@ -7,4 +7,4 @@ programming language : Lua
 
 Use only for Project of Scc
 
-Copyright © All Right Reserved
+
